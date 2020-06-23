@@ -1,2 +1,1 @@
-# googlesample
-Samples for GitHub lesson.
+This is my file
